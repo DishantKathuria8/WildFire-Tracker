@@ -1,5 +1,5 @@
 This is WildFire-Tracker Web App basically use NASA API and Google Maps API.
-![Screenshot (51)](https://user-images.githubusercontent.com/85367300/151246041-9e179397-ace2-4f4a-95f7-f93391545665.png)
+![Screenshot (54)](https://user-images.githubusercontent.com/85367300/154114324-0e4a8941-3674-408c-92e9-ba16996006d2.png)
 
 # Getting Started with Create React App
 
